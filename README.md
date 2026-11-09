@@ -78,7 +78,7 @@ python3 verify_witness.py ramsey-5-5-lower-42.g6
 
 ## License
 
-MIT (code); the witness graph is redistributed from daniel-munro/leaps-in-bounds.
+Licensed under the CFSF License — see [LICENSE](LICENSE) ([github.com/darkhipo/cfsf](https://github.com/darkhipo/cfsf)); the witness graph is redistributed from daniel-munro/leaps-in-bounds (MIT as published).
 
 ---
 
