@@ -79,3 +79,16 @@ python3 verify_witness.py ramsey-5-5-lower-42.g6
 ## License
 
 MIT (code); the witness graph is redistributed from daniel-munro/leaps-in-bounds.
+
+---
+
+## Why this repo is up
+
+Reproducible verified bounds: a kernel-checked certificate for R(5,5) ≥ 42 from Exoo's circulant witness — public evidence for independent reruns.
+
+[BigO-Hunter](https://github.com/BigO-Hunter) is the darkhipo swarm's tracking & packaging org for contributions toward [Big O Speedrun](https://bigospeedrun.com) — a companion, never the project. Org story: [profile](https://github.com/BigO-Hunter/.github) · [bigo-hunter.github.io](https://bigo-hunter.github.io).
+
+## What work can be done here
+
+The certificate check is complete. Open work: independent reruns; R(5,6) and beyond need new witnesses.
+
